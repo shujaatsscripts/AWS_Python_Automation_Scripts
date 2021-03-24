@@ -6,21 +6,21 @@
 > https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 
-Open Cmd line/ Terminal and run 
+    Open Cmd line/ Terminal and run 
 
 > aws configure
 
-Enter Access Key ,Secret Key and Region 
-
-1. Install Python 3 for your OS form here 
+    Enter Access Key ,Secret Key and Region 
+    
+2. Install Python 3 for your OS form here 
 
 
 > https://www.python.org/downloads/
 
 
-1. Open CMD line/ Termainal and run 
+3. Open CMD line/ Termainal and run 
 
 
 > pip install boto3
 
-1. Install any other modules for python requied by script form _pip_
+4. Install any other modules for python requied by script form _pip_
