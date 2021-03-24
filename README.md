@@ -6,7 +6,7 @@
         https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
      > Open Cmd line/ Terminal and run 
 
-                aws configure
+            aws configure
     > Enter Access Key ,Secret Key and Region 
     
 2. Install Python 3 for your OS form here 
